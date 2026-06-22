@@ -30,3 +30,8 @@ Includes:
   - **Realtime Database**: stores all test content (questions, choices, answers) — new tests can be added anytime without an app update
   - **Remote Config**: controls UI settings (welcome banner on/off, item height) remotely
   - **Analytics**: logs user events (`test_click`, `personal_select`) for usage tracking
+
+
+<img width="1215" height="585" alt="image" src="https://github.com/user-attachments/assets/8567ac5a-7e79-44df-99e2-7998155d5a85" />
+<img width="1048" height="711" alt="image" src="https://github.com/user-attachments/assets/7ff51370-217b-4622-8071-d8e75abdeaac" />
+
